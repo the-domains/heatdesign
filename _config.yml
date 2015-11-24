@@ -1,7 +1,7 @@
 name: HeatDesign
 favicon: null
-layout_spectrum: 0.8967938972637057
-typography_spectrum: 0.35086742136627436
+layout_spectrum: 0.9045
+typography_spectrum: 0.34507
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.4392948909662664
-  lightness: 0.00155892432667315
-  saturation: 0.004910471383482218
-  rhythmicContrast: 0.7361369330901653
+  brandStrength: 0.4375
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
